@@ -49,12 +49,12 @@ h1 {
 figure {
     margin: 0 auto;
 }
-figure img {
+figure img, video {
     width: 100%;
     border-radius: 15px;
     box-shadow: 5px 5px 5px #bababa;
 }
-figcaption {
+figcaption, #figcap {
     text-align: center;
     color: #9e9d9d;
     margin-top: 1em;
