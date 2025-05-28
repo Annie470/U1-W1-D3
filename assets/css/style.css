@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+body {
+    height: 100vh;
+    margin: 0%;
+    font-family:"Playfair Display", serif;  
+}
+header {
+height: 25vh;
+}
+
+.logo {
+    height: 50%;
+    width: 16%; 
+    margin: 0.5em auto;
+}
+.logo img {
+    width: 100%;
+}
+nav {
+    height:30% ;
+    background-color: #fefbf1;
+    border-top: 3px solid;
+    border-color: #ffd977;
+    text-align: center;
+    color: #004d4d;
+    font-size: 1.1rem;
+    font-weight:600;
+}
+nav a {
+    text-decoration: none;
+    font-weight: 800;
+    color: #004d4d;
+}
+nav p {
+    margin-top: 2em;
+}
+section, aside {
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+#sect1 {
+    text-align: justify;
+}
+h1 {
+    font-size: 3.7rem;
+    font-weight: 800;
+    text-align: center;
+}
+figure {
+    margin: 0 auto;
+}
+figure img {
+    width: 100%;
+    border-radius: 15px;
+}
+figcaption {
+    text-align: center;
+    color: #9e9d9d;
+    margin-top: 1em;
+}
+aside {
+ margin-top: 3em;
+ margin-bottom: 3em;
+ border-left: 3px solid;
+ padding-left: 1em;
+ border-color: #ffd977;
+}
+aside h3 {
+    color: #ae0000;
+    margin-bottom: 0;
+}
+aside a {
+    color: #004d4d;
+    font-size: 1.2em;
+}
+h2 {
+    margin-top: 2em;
+    padding-bottom: 1em;
+    font-weight: 600;
+    border-bottom: 1px solid;
+    border-color:  #019b9b;
+}
+.li-1 {
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 2em;
+}
+#special-li {
+    font-weight: 700;
+    letter-spacing: 0;
+    font-size: 1em;
+}
+li p {
+    font-weight: 400;
+}
+
